@@ -1,0 +1,77 @@
+body{
+	background-color:skyblue;
+	background-color:#bbcfff;
+	#background-color:#63b7af;
+	#background-color:#effffb;
+	#background-color:#15cda8;
+}
+h1, h3, p{
+	text-align:center;
+}
+h1 , #user{
+	font-family: 'Pacifico', cursive;
+	font-size:60px;
+}
+
+#work{
+	font-family: 'Patua One', cursive;
+	text-align:center;
+	font-size:40px;
+}
+#greet{
+	font-size:40px;
+	text-align:center;
+}
+#text1, .text2, .text3, .text4{
+	font-size:35px;
+	font-family: 'Abril+Fatfac', cursive;
+}
+.prof, .coder{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mypic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border:10px solid;
+}
+
+#intro{
+	font-family: 'Libre+Franklin', cursive;
+	font-size:30px;
+}
+#extra{
+	font-size:30px;
+	font-family: 'Amarante', cursive;
+}
+#logo{
+	color:black;
+	margin:50px;
+	padding-right:50px;
+}
+.myButton {
+	box-shadow: 1px 23px 25px -8px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:19px;
+	border:3px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:20px;
+	font-weight:bold;
+	padding:9px 21px;
+	text-decoration:none;
+	text-shadow:4px 2px 5px #026f94;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
